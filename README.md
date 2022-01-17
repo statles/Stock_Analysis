@@ -10,5 +10,6 @@ For the stocks themselves, we can see that 2017 was a better year for our twelve
 
 
 ## Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
+Refactoring the code had the advantage of allowing the code to run faster by about a second. The refactoring also had the added advantage of making the code more efficient by not having to reactivate the worksheet for each instance of the for loop. The for loops were not nested with the refactored code, as the variables were stored in arrays.
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+
